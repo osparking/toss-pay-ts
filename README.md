@@ -1,4 +1,8 @@
-# 결제위젯 React 샘플 프로젝트
+# 로컬 프로젝트
+1. 디스크 폴더: /c/Users/jbpar/react/payment/toss-pay-ts
+2. bash alias: tots
+
+## 결제위젯 React 샘플 프로젝트
 
 결제위젯 JavaScript SDK로 결제 과정을 구현한 React 샘플 프로젝트입니다. 자세한 연동 방법과 결제 과정은 [공식 연동 문서](https://docs.tosspayments.com/guides/payment-widget/integration)에서 확인하세요.
 
